@@ -1,0 +1,44 @@
+library(shiny) #load shiny package
+
+#Define UI for the shiny application
+shinyUI(fluidPage(
+  
+  #App title
+  titlePanel("Sewol Ferry Floor and Location Analysis"),
+  
+  sidebarLayout(position = "left",
+    
+    #sidebarPanel
+    sidebarPanel(
+    h3("Select:"),
+    
+    selectInput("xaxis", "Select x-axis input:", 
+                choices= c("age","floor","gender","Category-1","Category-2","Category-3","location"))
+    ),
+  
+  #mainPanel
+  mainPanel(h1("R Shiny Bar Plot"),
+            plotOutput("barchart")
+            ),
+  
+  )
+)
+)
+
+# Floor 
+# choices: 3 4 5 stokehold
+# Location
+# front middle back In 
+
+# show in table: 
+# number of students in that area, 
+# number of staffs in that area, 
+# number of normal passengers in that area 
+# relative to number of dead in that area for each section
+
+
+#radioButtons("floor", "Select the floor", list("3","4","5","1"),""),
+#radioButtons("location", "Select the Location", list("front","middle","back","in"),""),
+
+#selectInput("xaxis", "Select x-axis input:", 
+#   choices=colnames(sewol_eng)),
