@@ -1,0 +1,35 @@
+﻿1/24/2022 5pm-8pm 3 hours: Learned R and Homework Reading
+1/25/2022 2pm-4pm 2 hours: Learned R (+ homework reading)
+1/26/2022 5pm-9pm 4 hours: Looked for dataset and organized a draft of potential datasets 
+1/27/2022 2pm-5pm 3 hours: Homework reading
+1/28/2022 5pm-8pm 3 hours: Looked for more datasets + questions to ask / analyze about it
+1/31/2022 5pm-8pm 3 hours: Started Chapter 1 of Shiny + R reading 
+2/01/2022 2pm-4pm 2 hours: Experimented with Shiny + Chose my first dataset idea
+2/02/2022 5pm-9pm 4 hours: Looked for another dataset other than dance 
+2/03/2022 2pm-5pm 3 hours: Homework reading + worked on Lab journal
+2/04/2022 5pm-8pm 3 hours: Chose a new dataset (Sewol; my final one) and started tidying it
+2/07/2022 5pm-8pm 3 hours: Learned R and drafted potential types of data visualizations 
+2/08/2022 2pm-4pm 2 hours: Homework reading more
+2/09/2022 5pm-9pm 4 hours: Tidied my data and experimented with graphs (ggplot) 
+2/10/2022 2pm-5pm 3 hours: Homework reading, Journal, Individual Project
+2/11/2022 5pm-8pm 3 hours: Individual project work on + dataset presentation prepare
+2/14/2022 4pm-8pm 4 hours: Work on individual project, homework reading 
+2/15/2022 3pm-5pm 2 hours: Started building Shiny app
+2/16/2022 5pm-10pm 5 hours: Lab journal, homework reading, individual project
+2/17/2022 2pm-5pm 3 hours: Lab journal, homework reading, individual project
+2/18/2022 5pm-8pm 3 hours: Experimented with Map type data visualization (challenging)  
+2/21/2022 6pm-9pm 3 hours: Homework readings finish 
+2/22/2022 3pm-5pm 2 hours: Work on Shiny app
+2/23/2022 5pm-8pm 4 hours: Portfolio review start, Shiny app screenshots work
+2/24/2022 2pm-6pm 4 hours: Work on individual project and lab journal 
+2/25/2022 8pm-11pm 3 hours: Portfolio review finish, work on individual project
+2/28/2022 6pm-9pm 3 hours: Work on individual project graphs
+3/1/2022 2pm-4pm 2 hours: Work on writing about my individual project 
+3/2/2022 5pm-9pm 4 hours: Homework reading, Journal, work on individual project
+3/3/2022 2pm-5pm 3 hours: Homework, journal, work on individual project
+3/4/2022 4pm-7pm 3 hours: Make css/html fixes/revisions to individual project 
+3/7/2022 4pm-8pm 4 hours: Work on individual project, homework reading 
+3/8/2022 3pm-5pm 2 hours: MoU meeting + work on Shiny
+3/9/2022 5pm-10pm 5 hours: Lab journal, homework reading, individual project
+3/10/2022 2pm-5pm 3 hours: Lab journal, homework reading, individual project
+3/11/2022 5pm-8pm 3 hours: Experimented with Map type data visualization (challenging)
