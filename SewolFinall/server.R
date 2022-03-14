@@ -79,7 +79,7 @@ shinyServer(
     # make data fram of the number of people in each category, 104 normal, 33 sailors, and 339 students, set it as tmp_data2
     tmp_data2 <- data.frame(total2 = c(104,104,33,33,339,339))
     sewol_tmp <- cbind(tmp_data, tmp_data2)
-    tmp_data3 <- data.frame(countd = c(33,71,23,10,261,78))
+    tmp_data3 <- data.frame(countd = c(33,71,10,23,261,78))
     sewol_tmp <- cbind(sewol_tmp, tmp_data3)
     
     # make the rates of each category by the total number of people in each cateogry
