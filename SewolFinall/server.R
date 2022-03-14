@@ -8,8 +8,7 @@ library(leaflet)
 
 shinyServer(
   
-  function(input,output) { 
-    library(ggplot2)
+  function(input,output) {
     
     # Import dataset name it sewol
     sewol <- read.csv("sewol.csv")
